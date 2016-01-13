@@ -19,6 +19,7 @@ wp-content/cache/supercache/*
 
 # wpengine specific
 .smushit-status
+.htaccess
 .gitattributes
 _wpeprivate
 wp-content/object-cache.php
